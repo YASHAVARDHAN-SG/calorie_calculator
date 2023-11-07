@@ -4,4 +4,5 @@ Calorie calculators are tools that help people estimate the number of calories t
 
 Calorie calculators can be a helpful tool for people who are trying to manage their weight, but it is important to note that they are not always accurate. Individual calorie needs can vary depending on a variety of factors, including genetics, metabolism, and body composition. It is always best to talk to a registered dietitian or other qualified healthcare professional to get personalized advice on calorie intake and weight management.
 
-https://projectgurukul.org/wp-content/uploads/2023/04/calorie-calculator-app-project-output.webp
+
+![Untitled design](https://github.com/YASHAVARDHAN-SG/calorie_calculator/assets/137524620/5eada69d-3397-4676-8ddc-76e693665705)
